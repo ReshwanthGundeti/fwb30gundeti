@@ -2,8 +2,8 @@
 Reshwanth Gundet <br>
 [Heroku Server](https://fwb30gundeti.herokuapp.com/)
 
-Class Motel
+Class motel
 
-Motel_type(string)
+motel_type(string)
 Duration(number)
 Cost(number)
